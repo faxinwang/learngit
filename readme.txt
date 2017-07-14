@@ -8,3 +8,5 @@ creating a new branch is quick & simple.
 =======
 creating a new branch is quick AND simple.
 >>>>>>> feature1
+
+changes made in branch 'dev' on 2017/7/14.
