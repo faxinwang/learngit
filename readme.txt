@@ -10,3 +10,5 @@ creating a new branch is quick AND simple.
 >>>>>>> feature1
 
 changes made in branch 'dev' on 2017/7/14 12:38.
+
+changes made in branch 'dev' by person1
