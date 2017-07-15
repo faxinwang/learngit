@@ -9,6 +9,10 @@ creating a new branch is quick & simple.
 creating a new branch is quick AND simple.
 >>>>>>> feature1
 
+<<<<<<< HEAD
 changes made in branch 'dev' on 2017/7/14 12:38.
 
 changes made in branch 'dev' by person1
+=======
+made some changes in branch 'dev' again
+>>>>>>> 
