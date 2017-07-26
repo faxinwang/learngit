@@ -114,3 +114,7 @@ stash@{0}: WIP on dev: 6224937 add merge
 -->git tag -d <Tname>
 删除远程标签
 -->git push origin :refs/tags/tName
+
+本地提交失败的决绝方法:
+A.如果是第一次push, 可能是因为远程仓库中有README.md文件,而本地仓库中没有,所以会推送失败,可以先使用 git pull --rebase origin master 将远程
+  仓库中的文件拉取下来, 然后再git push -u origin master 将本地仓库推送到远程库.
